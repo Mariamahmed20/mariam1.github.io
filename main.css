@@ -1,0 +1,51 @@
+*{
+	text-align: right;
+	
+}
+body{
+	background-image:url(img.jpg);
+background-size: cover;
+
+
+}
+
+
+
+p{
+	
+	border:5px solid rgba(255, 131, 121, 0.2);
+	font-family: cursive;
+	line-height: 50px;
+	padding: 30px;
+	
+}
+h1{
+	text-align: center;	
+	border:5px solid rgba(255, 131, 121, 0.2);
+	font-family: cursive;
+}
+li{
+ list-style: none;
+ display: inline-block;
+
+ }
+
+a{
+	cursor: pointer;
+}
+nav{
+	clear: both;
+	text-align: center;
+}
+footer p{
+	clear: both;
+	text-align: center;
+}
+
+img{
+	float: left;
+	
+}
+form{
+	color: rgba(255, 131, 121, 1.0);
+}
